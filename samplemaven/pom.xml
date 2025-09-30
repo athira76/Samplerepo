@@ -3,7 +3,7 @@
   <groupId>com.obsqura</groupId>
   <artifactId>samplemaven</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <dependecies>
+   <dependencies>
   <!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
 <dependency>
     <groupId>org.apache.poi</groupId>
@@ -16,5 +16,5 @@
     <artifactId>poi-ooxml</artifactId>
     <version>5.2.5</version>
 </dependency>
-  </dependecies>  
+  </dependencies> 
 </project>
